@@ -1,0 +1,4 @@
+
+gradio
+fer
+opencv-python-headless
